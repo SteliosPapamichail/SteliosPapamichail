@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/mikepapamichail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mikepapamichail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stelios-papamichail-821b2315b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stelios-papamichail-821b2315b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stelios-papamichail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stelios papamichail" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6655405/stelios-papamichail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stelios papamichail" height="30" width="40" /></a>
 <a href="https://instagram.com/papamichail_stelios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="papamichail_stelios" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/steliospapamichail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="steliospapamichail" height="30" width="40" /></a>
 </p>
