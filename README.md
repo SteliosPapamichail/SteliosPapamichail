@@ -1,6 +1,4 @@
-<img src="">
-
-<h2> Hey there! I'm Stelios Papamichail.</h2>
+<h2><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FoqJAE.png%3Fs%3D328%26g%3D1&f=1&nofb=1" width="30" height="30"> Hey there! I'm Stelios Papamichail.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
