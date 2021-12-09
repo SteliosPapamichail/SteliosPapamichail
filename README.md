@@ -46,6 +46,5 @@
 <p align="center">
 <a href="https://www.steliospapamichail.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.steliospapamichail.com-red?style=flat-square&logo=microsoft-edge&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/stelios-papamichail-821b2315b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Stelios%20Papamichail-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/stelios_papamichail/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-stelios_papamichail-blueviolet?style=flat-square&logo=instagram&logoColor=white"></a>
 <a href="mailto:steliospapamichail@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-steliospapamichail@protonmail.com-9cf?style=flat-square&logo=protonmail&logoColor=white"></a>
 </p>
