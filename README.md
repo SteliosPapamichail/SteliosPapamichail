@@ -26,7 +26,7 @@ Heya! I'm Stelios Papamichail, a Computer Science undergraduate and Android deve
 </p>
 <br>
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SteliosPapamichail&custom_title=My%20Contributions%20graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.steliospapamichail.com)
+<!--[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SteliosPapamichail&custom_title=My%20Contributions%20graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.steliospapamichail.com)-->
 
 <div align="center"> <h3> 🤝🏻 &nbsp;Connect with Me </h3> </div>
 
