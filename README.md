@@ -2,7 +2,7 @@
   <b>👋 Stelios Papamichail</b>
 </h1>
 
-Heya! I'm Stelios Papamichail, a Computer Science undergraduate and Android developer! I love developing new skills and building useful and beautiful apps! I'm currently working [@LyraWMS](https://lyrawms.nl/) as an Android developer and also doing some freelance work on the side over on [@Upwork](https://www.upwork.com/freelancers/~018d3f860b95104974).
+Heya! I'm Stelios Papamichail, a Computer Science undergraduate and Android developer! I love developing new skills and building useful and beautiful apps! I'm currently working [@AirHub](https://airhub.app/) as an Android developer and also doing some freelance work on the side over on [@Upwork](https://www.upwork.com/freelancers/~018d3f860b95104974).
 
 🌱 &nbsp; Currently learning more about clean code, Jetpack Compose & Flutter.
 <br>
