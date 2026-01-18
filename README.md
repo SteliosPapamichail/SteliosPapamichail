@@ -2,7 +2,7 @@
   <b>👋 Stelios Papamichail</b>
 </h1>
 
-Heya! I'm Stelios Papamichail, a Computer Science grad and Android developer! I love developing new skills and building useful and beautiful apps! I'm currently working [@AirHub](https://airhub.app/) as an Android developer and occasionally write [SubStack](https://codeodessey.substack.com/) posts.
+Heya! I'm Stelios Papamichail, a Computer Science grad and Android developer! I love developing new skills and building useful and beautiful apps! I'm currently working [@Luscii-Omron](https://luscii.com) as an Android developer and occasionally write [SubStack](https://codeodessey.substack.com/) posts.
 
 🌱 &nbsp; Currently learning more about testing, Jetpack Compose & Drones via DJI's MSDK.
 <br>
